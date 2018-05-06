@@ -36,7 +36,9 @@
     "tslint": "~5.9.1",
     "typescript": "2.7.2",
     "uglify-js": "~3.0.28",
-    "yalc": "~1.0.0-pre.21"
+    "yalc": "~1.0.0-pre.21",
+    "@tensorflow/tfjs-core": "0.9.1",
+    "@tensorflow/tfjs-layers": "0.5.2"
   },
   "scripts": {
     "build": "tsc",
