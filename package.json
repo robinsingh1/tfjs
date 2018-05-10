@@ -51,7 +51,7 @@
     "release-notes": "ts-node ./scripts/release_notes/release_notes.ts"
   },
   "dependencies": {
-    "@tensorflow/tfjs-core": "0.9.1",
+    "@tensorflow/tfjs-core": "0.10.0",
     "@tensorflow/tfjs-layers": "0.5.2"
   }
 }
